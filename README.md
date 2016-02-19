@@ -1,14 +1,17 @@
 # machikoro
 Online version of the board game. First attempt at node.js and socket.io. First program primarily in Javascript. Not quite finished and needs polishing.
 
-Instructions to install:
-1. Install Node.js. Available here: https://nodejs.org/en/download/
-2. Download this project to your computer
-3. Navigate to the machikoro folder you just downloaded via the command line, and enter "npm install"
-Instructions to run:
-1. On the command line in the machikoro folder enter "run index.js". It should say "listening on *:3000"
-2. Visit http://127.0.0.1:3000/ and it should be running!
-3. If you add multiple people before hitting "start game" they'll be put in the same game room.
+## Instructions to install:
+1.	Install Node.js. Available here: https://nodejs.org/en/download/
+2.	Download this project to your computer
+3.	Navigate to the machikoro folder you just downloaded via the command line, and enter "npm install"
+
+## Instructions to run:
+1.	On the command line in the machikoro folder enter "run index.js". It should say "listening on *:3000"
+2.	Visit http://127.0.0.1:3000/ and it should be running!
+3.	If you add multiple people before hitting "start game" they'll be put in the same game room.
+
+## To Do
 
 The back end is only missing a couple of things for it to be functional: Business Center and TV station handling, namely.
 The front end is a right mess, HTML-wise, but it's nearly functional as well.
