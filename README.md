@@ -1,7 +1,7 @@
 # machikoro
 Online version of the board game. First attempt at node.js and socket.io. First program primarily in Javascript. Not quite finished and needs polishing.
 
-## Instructions to install:
+## Instructions to install on Windows:
 1.	Install Node.js. Available here: https://nodejs.org/en/download/
 2.	Download this project to your computer
 3.	Navigate to the machikoro folder you just downloaded via the command line, and enter "npm install"
