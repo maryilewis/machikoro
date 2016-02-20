@@ -7,7 +7,7 @@ Online version of the board game. First attempt at node.js and socket.io. First 
 3.	Navigate to the machikoro folder you just downloaded via the command line, and enter "npm install"
 
 ## Instructions to run:
-1.	On the command line in the machikoro folder enter "run index.js". It should say "listening on *:3000"
+1.	On the command line in the machikoro folder enter "node index.js". It should say "listening on *:3000"
 2.	Visit http://127.0.0.1:3000/ and it should be running!
 3.	If you add multiple people before hitting "start game" they'll be put in the same game room.
 
